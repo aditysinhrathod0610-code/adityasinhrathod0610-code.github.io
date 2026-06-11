@@ -18,7 +18,7 @@
 
 The production build of our mobile application is deployed independently for fast enterprise integration, bypassing app store bottlenecks.
 
-🟢 **[Click Here to Download Nexxflow v1.0 APK](https://github.com/adityasinhrathod0610-code/nexxflow.github.io/releases/v1,0/Nexxflow1.0.apk)**
+🟢 **[Click Here to Download Nexxflow v1.0 APK](https://github.com/adityasinhrathod0610-code/nexxflow.github.io/releases/v1.0/Nexxflow1.0.apk)**
 
 ### 📱 Core Application Modules
 * **Automated Canvas Synchronization:** Real-time visibility into active AI processing tasks.
@@ -31,7 +31,7 @@ The production build of our mobile application is deployed independently for fas
 
 Since this build is distributed securely as a direct installation package (`.apk`), please execute these simple deployment steps on your device:
 
-1. Tap our official **[Direct Download Link](https://github.com/adityasinhrathod0610-code/nexxflow.github.io/releases/v1,0/Nexxflow1.0.apk)** to grab the installer bundle.
+1. Tap our official **[Direct Download Link](https://github.com/adityasinhrathod0610-code/nexxflow.github.io/releases/v1.0/Nexxflow1.0.apk)** to grab the installer bundle.
 2. If Android displays a default *"File might be harmful"* prompt, tap **Download anyway** (this is standard operational procedure for standalone system files).
 3. Open the file and click **Install**. *If requested, quickly toggle on "Allow from this source" in your mobile browser's system configurations.*
 
